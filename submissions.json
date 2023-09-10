@@ -14,5 +14,21 @@
       "math"
     ],
     "timestamp": "Jun/25/2023 20:18"
+  },
+  "CF222772054": {
+    "contest_id": 263,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/263/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF222772054",
+    "submission_url": "https://codeforces.com/contest/263/submission/222772054",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/10/2023 18:24"
   }
 }
