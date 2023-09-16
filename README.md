@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-11 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++20 (64)](./codeforces/427/A.cpp) | `implementation` `*800` | Sep/16/2023 18:08 | 
-10 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [GNU C++20 (64)](./codeforces/266/A.cpp) | `implementation` `*800` | Sep/16/2023 18:03 | 
+12 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++20 (64)](./codeforces/427/A.cpp) | `implementation` `*800` | Sep/16/2023 18:08 | 
+11 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [GNU C++20 (64)](./codeforces/266/A.cpp) | `implementation` `*800` | Sep/16/2023 18:03 | 
+10 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++20 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Sep/16/2023 17:52 | 
 9 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [GNU C++20 (64)](./codeforces/112/A.cpp) | `implementation` `strings` `*800` | Sep/11/2023 02:47 | 
 8 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [GNU C++20 (64)](./codeforces/281/A.cpp) | `implementation` `strings` `*800` | Sep/10/2023 20:16 | 
 7 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++20 (64)](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | Sep/10/2023 20:05 | 
