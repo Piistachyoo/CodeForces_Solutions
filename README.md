@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-14 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++20 (64)](./codeforces/265/A.cpp) | `implementation` `*800` | Sep/17/2023 20:13 | 
+15 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++20 (64)](./codeforces/265/A.cpp) | `implementation` `*800` | Sep/17/2023 20:13 | 
+14 | [A - Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [GNU C++20 (64)](./codeforces/732/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` `*800` | Sep/17/2023 20:03 | 
 13 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++20 (64)](./codeforces/427/A.cpp) | `implementation` `*800` | Sep/16/2023 18:08 | 
 12 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [GNU C++20 (64)](./codeforces/266/A.cpp) | `implementation` `*800` | Sep/16/2023 18:03 | 
 11 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++20 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Sep/16/2023 17:52 | 
