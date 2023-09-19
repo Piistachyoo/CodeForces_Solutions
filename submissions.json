@@ -300,5 +300,21 @@
       "*800"
     ],
     "timestamp": "Sep/17/2023 20:13"
+  },
+  "CF224075079": {
+    "contest_id": 709,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/709/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Juicer",
+    "problem_url": "https://codeforces.com/contest/709/problem/A",
+    "submission_id": "CF224075079",
+    "submission_url": "https://codeforces.com/contest/709/submission/224075079",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/19/2023 20:27"
   }
 }
