@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-20 | [A - Juicer](https://codeforces.com/contest/709/problem/A) | [GNU C++20 (64)](./codeforces/709/A.cpp) | `implementation` `*900` | Sep/19/2023 20:27 | 
-19 | [A - Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | [GNU C++20 (64)](./codeforces/294/A.cpp) | `implementation` `math` `*800` | Sep/19/2023 20:16 | 
+21 | [A - Juicer](https://codeforces.com/contest/709/problem/A) | [GNU C++20 (64)](./codeforces/709/A.cpp) | `implementation` `*900` | Sep/19/2023 20:27 | 
+20 | [A - Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | [GNU C++20 (64)](./codeforces/294/A.cpp) | `implementation` `math` `*800` | Sep/19/2023 20:16 | 
+19 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++20 (64)](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Sep/19/2023 19:18 | 
 18 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++20 (64)](./codeforces/265/A.cpp) | `implementation` `*800` | Sep/17/2023 20:13 | 
 17 | [A - Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [GNU C++20 (64)](./codeforces/732/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` `*800` | Sep/17/2023 20:03 | 
 16 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++20 (64)](./codeforces/268/A.cpp) | `brute force` `*800` | Sep/17/2023 19:56 | 
