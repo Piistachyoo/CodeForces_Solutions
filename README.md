@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-23 | [A - Free Ice Cream](https://codeforces.com/contest/686/problem/A) | [GNU C++20 (64)](./codeforces/686/A.cpp) | `constructive algorithms` `implementation` `*800` | Sep/22/2023 21:03 | 
-22 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [GNU C++20 (64)](./codeforces/71/A.cpp) | `strings` `*800` | Sep/22/2023 20:52 | 
+24 | [A - Free Ice Cream](https://codeforces.com/contest/686/problem/A) | [GNU C++20 (64)](./codeforces/686/A.cpp) | `constructive algorithms` `implementation` `*800` | Sep/22/2023 21:03 | 
+23 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [GNU C++20 (64)](./codeforces/71/A.cpp) | `strings` `*800` | Sep/22/2023 20:52 | 
+22 | [A - Anton and Letters](https://codeforces.com/contest/443/problem/A) | [GNU C++20 (64)](./codeforces/443/A.cpp) | `constructive algorithms` `implementation` `*800` | Sep/22/2023 20:41 | 
 21 | [A - Juicer](https://codeforces.com/contest/709/problem/A) | [GNU C++20 (64)](./codeforces/709/A.cpp) | `implementation` `*900` | Sep/19/2023 20:27 | 
 20 | [A - Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | [GNU C++20 (64)](./codeforces/294/A.cpp) | `implementation` `math` `*800` | Sep/19/2023 20:16 | 
 19 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++20 (64)](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Sep/19/2023 19:18 | 
