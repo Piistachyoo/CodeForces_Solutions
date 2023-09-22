@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+22 | [A - Free Ice Cream](https://codeforces.com/contest/686/problem/A) | [GNU C++20 (64)](./codeforces/686/A.cpp) | `constructive algorithms` `implementation` `*800` | Sep/22/2023 21:03 | 
 21 | [A - Juicer](https://codeforces.com/contest/709/problem/A) | [GNU C++20 (64)](./codeforces/709/A.cpp) | `implementation` `*900` | Sep/19/2023 20:27 | 
 20 | [A - Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | [GNU C++20 (64)](./codeforces/294/A.cpp) | `implementation` `math` `*800` | Sep/19/2023 20:16 | 
 19 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++20 (64)](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Sep/19/2023 19:18 | 
